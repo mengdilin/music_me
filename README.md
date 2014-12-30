@@ -2,9 +2,9 @@
 
 <h1>Group Members</h1>
 <ul>
+<li>Mengdi Lin(In Charge of API, html, and Database)</li>
 <li>Ivan Smirnov (In charge of the Database)</li>
 <li>Olivia Balderes (In Charge of templating)</li>
-<li>Mengdi Lin(In Charge of API)</li>
 <li>Brian Yan (In charge of the group and of the server)</li>
 </ul>
 <br></br>
